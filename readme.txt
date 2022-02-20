@@ -1,4 +1,4 @@
-LOL官方外挂指南（手动狗头）   
+LOL官方外挂指南（手动狗头)
 
 初衷：
 最开始只是因为现在找工作闲的发慌，想再做个数据项目练练手充充门面，然后想到LOL那么多英雄有着很多数据可以用，本S5老玩家DNA动了，就去尝试搜了一下，发现riot对开发者很友好，很轻松就下载到了资源包，看了一圈发现除了常规的英雄title，介绍和装备的情况之外，还有官方的allytips和enemytips，想起来原来看登入界面时候的小知识看的不亦乐乎，又想起来原来一起打游戏的人，就决定做一个网站整理一下，也缅怀一下这段岁月。
@@ -27,8 +27,9 @@ You may want to know:
 2.正则表达式里的？greedy和ungreedy问题浪费了我三个小时😀giao
 3.提取学名的时候，用name发现皮肤的类别也是name会重复，所以正则表达式向前延伸了加上了key作为区分
 
-
 感谢html5up提供好看的网站模板 thanks to html5up for the free and wonderful website template.
 感谢南京大学的大壮老师在coursera上的《用python玩转数据》给我启蒙，课程免费，干货很多，推荐大家感兴趣都去听一听 https://www.coursera.org/learn/hipython?
 感谢youtube上的Alex The Analyst建议我做个portfolio，才有了这个网站
 感谢雷霆，米兰，翠花，壮壮原来一起和我打游戏。
+
+一切图片，文字版权属于riot。
